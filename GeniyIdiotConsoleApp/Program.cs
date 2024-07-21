@@ -10,7 +10,7 @@ namespace GeniyIdiotConsoleApp
     {
         
 
-
+    //Commint
         static void Main(string[] args)
         {
             Console.WriteLine("Привет дружище!Напиши, как тебя зовут?");
